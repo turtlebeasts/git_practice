@@ -1,4 +1,4 @@
-# Dillinger
+# Welcome
 ## Create as you learn
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/turtlebeasts/git_practice)
