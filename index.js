@@ -1,1 +1,1 @@
-console.log('Hello')
+alert("Welcome to git create as you learn")
