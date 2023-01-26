@@ -1,6 +1,12 @@
-h1{
-    color: red;
+body{
+    background-color: grey;
 }
+h1{
+    color: white;
+    font-size: 6rem;
+}
+
 p{
-    color: blue;
+    font-size: 2rem;
+    font-weight: 900;
 }
